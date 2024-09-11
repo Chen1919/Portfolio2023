@@ -67,7 +67,7 @@ svg{
 .hidden{
   display: none;
 }
-
+ 
 /* Preloader */
 .preloader{
   background-color: var(--color-background-light);
